@@ -1,0 +1,60 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplejidadCondicional", "ComplejidadCondicional\ComplejidadCondicional.csproj", "{01D43A4A-DB76-501D-D7B7-CC15776FDE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EleganciaOperador", "EleganciaOperador\EleganciaOperador.csproj", "{9DEBE4C7-5849-3880-9B8F-BBF2EED4EA8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoTabla", "MetodoTabla\MetodoTabla.csproj", "{FAB8A526-652E-F082-AE79-8331333AA238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosMagicos", "NumerosMagicos\NumerosMagicos.csproj", "{20F281F3-F2A0-B252-00C0-8E093E615534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoVsEnum", "PolimorfismoVsEnum\PolimorfismoVsEnum.csproj", "{984D65C3-5F47-1B88-57C8-C4A29AD04F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerDeclarativo", "SerDeclarativo\SerDeclarativo.csproj", "{4385FC08-D904-B14D-0CCC-9F25E1DA072D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipadoFuerte", "TipadoFuerte\TipadoFuerte.csproj", "{4AF7A0F6-5D39-C3E7-F4D0-4467934A9408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D43A4A-DB76-501D-D7B7-CC15776FDE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D43A4A-DB76-501D-D7B7-CC15776FDE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D43A4A-DB76-501D-D7B7-CC15776FDE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D43A4A-DB76-501D-D7B7-CC15776FDE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEBE4C7-5849-3880-9B8F-BBF2EED4EA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEBE4C7-5849-3880-9B8F-BBF2EED4EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEBE4C7-5849-3880-9B8F-BBF2EED4EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEBE4C7-5849-3880-9B8F-BBF2EED4EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB8A526-652E-F082-AE79-8331333AA238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB8A526-652E-F082-AE79-8331333AA238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB8A526-652E-F082-AE79-8331333AA238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB8A526-652E-F082-AE79-8331333AA238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F281F3-F2A0-B252-00C0-8E093E615534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F281F3-F2A0-B252-00C0-8E093E615534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F281F3-F2A0-B252-00C0-8E093E615534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F281F3-F2A0-B252-00C0-8E093E615534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984D65C3-5F47-1B88-57C8-C4A29AD04F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984D65C3-5F47-1B88-57C8-C4A29AD04F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984D65C3-5F47-1B88-57C8-C4A29AD04F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984D65C3-5F47-1B88-57C8-C4A29AD04F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4385FC08-D904-B14D-0CCC-9F25E1DA072D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4385FC08-D904-B14D-0CCC-9F25E1DA072D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4385FC08-D904-B14D-0CCC-9F25E1DA072D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4385FC08-D904-B14D-0CCC-9F25E1DA072D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF7A0F6-5D39-C3E7-F4D0-4467934A9408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF7A0F6-5D39-C3E7-F4D0-4467934A9408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF7A0F6-5D39-C3E7-F4D0-4467934A9408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF7A0F6-5D39-C3E7-F4D0-4467934A9408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258B792B-40EE-4F84-B855-D78380001D07}
+	EndGlobalSection
+EndGlobal
